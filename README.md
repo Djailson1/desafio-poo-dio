@@ -1,26 +1,4 @@
-# Desafio: Aprenda na Prática Programação Orientada a Objetos
 
-Sejam bem-vindos ao desafio: **APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.**
-Desafio este que tive a honra de co-criar com a plataforma de cursos online **[DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/)** ![yellow_heart](https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png)![orange_heart](https://github.githubassets.com/images/icons/emoji/unicode/1f9e1.png) e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
-![gem](https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png) O objetivo principal é colocar em prática umas das principais ferramentas da OO: **ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,** através de um projeto Java.
-
-## ![stop_sign](https://github.githubassets.com/images/icons/emoji/unicode/1f6d1.png) Pré-Requisitos
-
-![white_check_mark](https://github.githubassets.com/images/icons/emoji/unicode/2705.png) Conhecer a sintaxe da Java
-![white_check_mark](https://github.githubassets.com/images/icons/emoji/unicode/2705.png) Java JDK 11
-![white_check_mark](https://github.githubassets.com/images/icons/emoji/unicode/2705.png) IDE para desenvolvimento Java (usarei IntelliJ)
-![white_check_mark](https://github.githubassets.com/images/icons/emoji/unicode/2705.png) Git
-![white_check_mark](https://github.githubassets.com/images/icons/emoji/unicode/2705.png) Conta no GitHub
-
-## ![footprints](https://github.githubassets.com/images/icons/emoji/unicode/1f463.png) Passo-a-Passo
-
-**1.** Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
-**2.** Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
-**3.** As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
-**4.** Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
-**5.** E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS
-
-------
 
 ## ![books](https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png) Paradigma de Programação Orientado a Objetos (POO)
 
